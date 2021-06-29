@@ -1,0 +1,21 @@
+
+Incidencias de las herramientas tecnologicas en los estudiantes pre-universitarios
+
+
+Impulso de las herramientas tecnologicas por la llegada de la pandemia
+
+Uso de las herramientas tecnologicas en los estudiantes pre-universitarios
+
+
+Impacto de las aplicaciones de delivery en la economia
+
+
+Auge del data analyst en el uso de las aplicaciones de delivery
+
+
+select round(long_w,4) 
+from station
+where lat_n = (select min(lat_n)from station where lat_n > 38.7780)
+
+
+
